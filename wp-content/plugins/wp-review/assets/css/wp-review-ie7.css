@@ -1,0 +1,35 @@
+/*
+* Plugin Name: WP Review
+* Plugin URI: https://wordpress.org/plugins/wp-review/
+* Description: Create reviews! Choose from Stars, Percentages or Points for review scores. Supports Retina Display, WPMU & Unlimited Color Schemes.
+* Author: MyThemesShop
+* Author URI: http://mythemeshop.com/
+*/
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'font-icons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1em;
+}
+.icon-star { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+/*
+     FILE ARCHIVED ON 01:10:28 Sep 30, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:20:28 Jan 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 24.389
+  PetaboxLoader3.resolve: 25.221
+  exclusion.robots.policy: 0.228
+  exclusion.robots: 0.244
+  captures_list: 203.042
+  LoadShardBlock: 154.648 (3)
+  PetaboxLoader3.datanode: 117.476 (4)
+  esindex: 0.018
+  CDXLines.iter: 20.541 (3)
+  load_resource: 1965.738
+*/

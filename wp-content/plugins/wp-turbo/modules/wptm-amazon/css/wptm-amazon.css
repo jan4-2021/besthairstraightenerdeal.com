@@ -1,0 +1,75 @@
+/*AMAZON MODULE CSS*/
+span.wpt-amazon-rating {
+  background-image: url(/web/20120531200446im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-amazon/images/rating-star-sprite.gif);
+  background-repeat: repeat-x;
+  background-position: 0 0;
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  font-size: 0px;
+  line-height: 0px;
+}
+span.wpt-amazon-rating-gold {
+  background-image: url(/web/20120531200446im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-amazon/images/rating-star-sprite.gif);
+  background-repeat: repeat-x;
+  background-position: 0 -30px;
+  display: inline-block;
+  height: 30px;
+  font-size: 0px;
+  line-height: 0px;
+}
+a.wptm-amazon-buy-now-big {
+  background-image: url(/web/20120531200446im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-amazon/images/wptm-amazon-buy-now.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  text-decoration: none;
+}
+a.wptm-amazon-buy-now-big:hover {
+  background-position: 0 -40px;
+}
+a.wptm-amazon-buy-now-big span {
+  visibility: hidden;
+}
+
+a.wptm-amazon-buy-now {
+  background-image: url(/web/20120531200446im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-amazon/images/wptm-amazon-buy-now.png);
+  background-position: -140px 0;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 77px;
+  height: 22px;
+  text-decoration: none;
+}
+a.wptm-amazon-buy-now:hover {
+  background-position: -140px -22px;
+}
+a.wptm-amazon-buy-now-big span {
+  visibility: hidden;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 20:04:46 May 31, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:20:40 Jan 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.201
+  exclusion.robots: 0.218
+  CDXLines.iter: 25.004 (3)
+  esindex: 0.015
+  RedisCDXSource: 25.067
+  PetaboxLoader3.resolve: 21.53
+  captures_list: 723.311
+  load_resource: 73.989
+  LoadShardBlock: 668.363 (3)
+  PetaboxLoader3.datanode: 687.086 (4)
+*/

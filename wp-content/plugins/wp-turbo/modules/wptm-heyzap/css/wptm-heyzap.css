@@ -1,0 +1,44 @@
+/*HEYZAP MODULE CSS*/
+span.wpt-heyzap-rating {
+  background-image: url(/web/20120531200927im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-heyzap/images/rating-star-sprite.gif);
+  background-repeat: repeat-x;
+  background-position: 0 0;
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  font-size: 0px;
+  line-height: 0px;
+}
+span.wpt-heyzap-rating-gold {
+  background-image: url(/web/20120531200927im_/http://besthairstraightenerdeal.com/wp-content/plugins/wp-turbo/modules/wptm-heyzap/images/rating-star-sprite.gif);
+  background-repeat: repeat-x;
+  background-position: 0 -30px;
+  display: inline-block;
+  height: 30px;
+  font-size: 0px;
+  line-height: 0px;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 20:09:27 May 31, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:20:43 Jan 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 1859.945 (4)
+  load_resource: 190.281
+  captures_list: 1838.622
+  exclusion.robots: 0.313
+  PetaboxLoader3.resolve: 110.894
+  LoadShardBlock: 1797.964 (3)
+  CDXLines.iter: 33.222 (3)
+  esindex: 0.022
+  RedisCDXSource: 1.291
+  exclusion.robots.policy: 0.291
+*/
